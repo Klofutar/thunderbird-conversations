@@ -555,8 +555,8 @@
     "description": "Information text for email sent success.",
     "placeholders": {
       "msgId": {
-      "content": "$1",
-      "example": "1234"
+        "content": "$1",
+        "example": "1234"
       }
     }
   },
